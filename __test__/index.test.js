@@ -1,6 +1,5 @@
 
 test('parseYAML return object', () => {
-	const fs = require('fs');
 	const parseYAML = require('../index');
 
 	const str_1 = 
