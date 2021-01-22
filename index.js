@@ -1,5 +1,3 @@
-const errors = [];
-
 class Block {
     constructor(lvl){
         this.level = lvl;
